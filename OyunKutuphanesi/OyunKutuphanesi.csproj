@@ -68,6 +68,16 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VeritabaniBaglantisi.cs" />
+    <Compile Include="HafizaOyunuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HafizaOyunuForm.Designer.cs">
+      <DependentUpon>HafizaOyunuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kart.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ZorlukSeviyesi.cs" />
     <Compile Include="AdamAsmacaForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -105,6 +115,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AdamAsmacaForm.resx">
       <DependentUpon>AdamAsmacaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HafizaOyunuForm.resx">
+      <DependentUpon>HafizaOyunuForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

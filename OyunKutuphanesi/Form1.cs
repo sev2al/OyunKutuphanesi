@@ -12,12 +12,16 @@ namespace OyunKutuphanesi
 {
     public partial class Form1 : Form
     {
+        private int kullaniciId;
+
         public Form1()
         {
             InitializeComponent();
+            this.kullaniciId = Program.GirisYapanKullaniciID;
             btnAdamAsmaca.Click += BtnAdamAsmaca_Click;
             btnYilan.Click += BtnYilan_Click;
             btnLabirent.Click += BtnLabirent_Click;
+            btnEslestirme.Click += BtnEslestirmeOyunu_Click;
         }
 
         private void BtnAdamAsmaca_Click(object sender, EventArgs e)
@@ -56,6 +60,27 @@ namespace OyunKutuphanesi
                     LabirentForm frm = new LabirentForm(seciliZorluk);
                     frm.ShowDialog();
                 }
+            }
+        }
+
+        private void BtnEslestirmeOyunu_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                using (var hafizaOyunu = new HafizaOyunuForm())
+                {
+                    this.Hide();
+                    hafizaOyunu.ShowDialog();
+                    this.Show();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Hafıza oyunu açılırken bir hata oluştu: {ex.Message}", 
+                              "Hata", 
+                              MessageBoxButtons.OK, 
+                              MessageBoxIcon.Error);
+                this.Show(); // Hata durumunda ana formu göster
             }
         }
     }

@@ -60,10 +60,10 @@ namespace OyunKutuphanesi
                                 }
                                 MessageBox.Show("Giriş başarılı! Hoş geldiniz.", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
                                 
-                                // Ana form açılışı
-                                Form1 anaForm = new Form1();
+                                // Ana sayfa formunu aç
+                                Form1 anaSayfa = new Form1();
                                 this.Hide();
-                                anaForm.ShowDialog();
+                                anaSayfa.ShowDialog();
                                 this.Close();
                             }
                             else

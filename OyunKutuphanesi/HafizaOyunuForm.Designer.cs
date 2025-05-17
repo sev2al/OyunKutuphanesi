@@ -1,6 +1,6 @@
 namespace OyunKutuphanesi
 {
-    partial class AnaSayfaForm
+    partial class HafizaOyunuForm
     {
         /// <summary>
         /// Required designer variable.
@@ -31,15 +31,15 @@ namespace OyunKutuphanesi
             this.components = new System.ComponentModel.Container();
             this.SuspendLayout();
             // 
-            // AnaSayfaForm
+            // HafizaOyunuForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(600, 400);
-            this.MinimumSize = new System.Drawing.Size(400, 300);
-            this.Name = "AnaSayfaForm";
+            this.ClientSize = new System.Drawing.Size(800, 600);
+            this.MinimumSize = new System.Drawing.Size(600, 400);
+            this.Name = "HafizaOyunuForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Oyun Kütüphanesi";
+            this.Text = "Hafıza Oyunu";
             this.ResumeLayout(false);
         }
 

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace OyunKutuphanesi
 {
-    public class VeritabaniBaglantisi
+    public static class VeritabaniBaglantisi
     {
-        private static readonly string BaglantiDizesi = ConfigurationManager.ConnectionStrings["OyunBaglantisi"].ConnectionString;
+        private static string BaglantiCumlesi = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\OyunKutuphanesi.mdf;Integrated Security=True";
 
         /// <summary>
         /// SQL bağlantısını açar ve döndürür.
@@ -19,11 +19,8 @@ namespace OyunKutuphanesi
         /// <returns>Açık bir SQL bağlantısı.</returns>
         public static SqlConnection BaglantiOlustur()
         {
-            SqlConnection baglanti = new SqlConnection(BaglantiDizesi);
-            if (baglanti.State != ConnectionState.Open)
-            {
-                baglanti.Open();
-            }
+            SqlConnection baglanti = new SqlConnection(BaglantiCumlesi);
+            baglanti.Open();
             return baglanti;
         }
 
