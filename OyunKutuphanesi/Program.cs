@@ -20,6 +20,7 @@ namespace OyunKutuphanesi
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FormGirisEkrani());
 
+
         }
     }
 }
