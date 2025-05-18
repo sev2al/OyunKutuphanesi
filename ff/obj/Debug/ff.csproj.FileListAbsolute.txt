@@ -1,0 +1,10 @@
+D:\proje\ff\bin\Debug\ff.exe.config
+D:\proje\ff\bin\Debug\ff.exe
+D:\proje\ff\bin\Debug\ff.pdb
+D:\proje\ff\obj\Debug\ff.csproj.AssemblyReference.cache
+D:\proje\ff\obj\Debug\ff.Form1.resources
+D:\proje\ff\obj\Debug\ff.Properties.Resources.resources
+D:\proje\ff\obj\Debug\ff.csproj.GenerateResource.cache
+D:\proje\ff\obj\Debug\ff.csproj.CoreCompileInputs.cache
+D:\proje\ff\obj\Debug\ff.exe
+D:\proje\ff\obj\Debug\ff.pdb

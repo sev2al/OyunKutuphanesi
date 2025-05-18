@@ -1,0 +1,10 @@
+D:\proje\nn\bin\Debug\nn.exe.config
+D:\proje\nn\bin\Debug\nn.exe
+D:\proje\nn\bin\Debug\nn.pdb
+D:\proje\nn\obj\Debug\nn.csproj.AssemblyReference.cache
+D:\proje\nn\obj\Debug\nn.Form1.resources
+D:\proje\nn\obj\Debug\nn.Properties.Resources.resources
+D:\proje\nn\obj\Debug\nn.csproj.GenerateResource.cache
+D:\proje\nn\obj\Debug\nn.csproj.CoreCompileInputs.cache
+D:\proje\nn\obj\Debug\nn.exe
+D:\proje\nn\obj\Debug\nn.pdb

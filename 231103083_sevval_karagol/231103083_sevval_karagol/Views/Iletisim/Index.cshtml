@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Akkar Lojistik | Bize Ulaşın";
+}
+<section class="contact_section layout_padding">
+    <div class="d-flex justify-content-center">
+        <h2 class="heading_style">
+            Bize Ulaşın
+        </h2>
+    </div>
+    <div class="container layout_padding2-top">
+        <div class="row">
+            <div class="col-md-6">
+                <iframe class="w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6021.972513835184!2d29.235342!3d41.003674!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88f91b0e129aacfc!2sAkkar%20Lojistik!5e0!3m2!1str!2str!4v1602526515720!5m2!1str!2str" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+            </div>
+
+            <div class="col-md-6">
+                <div class="contact_form-container">
+                    <form action="Iletisim/Create" method="post" name="send_message_form">
+                        
+                        <div>
+                            <input type="text" name="Ad" placeholder="Adınız" required="">
+                        </div>
+                        <div>
+                            <input type="email" name="Mail" placeholder="Mail Adresiniz" required="">
+                        </div>
+                        <div>
+                            <input type="text" name="Telefon" placeholder="Telefonunuz">
+                        </div>
+
+                        <div>
+                            <input type="text" name="Mesaj" class="message_input" placeholder="Mesajınız" required="">
+                        </div>
+                        <div class="d-flex justify-content-end">
+                            <button type="submit">
+                                Gönder
+                            </button>
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>

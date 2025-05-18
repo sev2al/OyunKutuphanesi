@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\231103083_sevval_karagol.bundle.scp.css",
+      "PackagePath": "staticwebassets\\231103083_sevval_karagol.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\akkar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\akkar.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\depolama.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\depolama.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\h1belgesi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\h1belgesi.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\hakkimizda.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\hakkimizda.webp"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\hakkimizda.webp.crdownload",
+      "PackagePath": "staticwebassets\\assets\\images\\hakkimizda.webp.crdownload"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\header-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header-bg.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\intro-bg.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\intro-bg.webp"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\k1belgesi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\k1belgesi.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\komple.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\komple.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\l2belgesi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\l2belgesi.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\lojistik.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\lojistik.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\mail.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mail.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\menu.png",
+      "PackagePath": "staticwebassets\\assets\\images\\menu.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\phone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\phone.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\socials\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\images\\socials\\instagram.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\socials\\linkedin.png",
+      "PackagePath": "staticwebassets\\assets\\images\\socials\\linkedin.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\socials\\youtube.png",
+      "PackagePath": "staticwebassets\\assets\\images\\socials\\youtube.png"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\tiobelgesi.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\tiobelgesi.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\assets\\images\\uluslar.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\uluslar.jpg"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\slic.css",
+      "PackagePath": "staticwebassets\\css\\slic.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\css\\venobox.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\js\\site1.js",
+      "PackagePath": "staticwebassets\\js\\site1.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\proje\\231103083_sevval_karagol\\231103083_sevval_karagol\\wwwroot\\venobox\\venobox.min.js",
+      "PackagePath": "staticwebassets\\venobox\\venobox.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.231103083_sevval_karagol.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.231103083_sevval_karagol.props",
+      "PackagePath": "build\\231103083_sevval_karagol.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.231103083_sevval_karagol.props",
+      "PackagePath": "buildMultiTargeting\\231103083_sevval_karagol.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.231103083_sevval_karagol.props",
+      "PackagePath": "buildTransitive\\231103083_sevval_karagol.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

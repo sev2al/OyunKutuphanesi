@@ -1,0 +1,10 @@
+D:\proje\j\bin\Debug\j.exe.config
+D:\proje\j\bin\Debug\j.exe
+D:\proje\j\bin\Debug\j.pdb
+D:\proje\j\obj\Debug\j.csproj.AssemblyReference.cache
+D:\proje\j\obj\Debug\j.Form1.resources
+D:\proje\j\obj\Debug\j.Properties.Resources.resources
+D:\proje\j\obj\Debug\j.csproj.GenerateResource.cache
+D:\proje\j\obj\Debug\j.csproj.CoreCompileInputs.cache
+D:\proje\j\obj\Debug\j.exe
+D:\proje\j\obj\Debug\j.pdb

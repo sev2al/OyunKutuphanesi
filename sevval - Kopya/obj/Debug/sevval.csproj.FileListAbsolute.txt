@@ -1,0 +1,14 @@
+D:\proje\sevval\bin\Debug\sevval.exe.config
+D:\proje\sevval\bin\Debug\sevval.exe
+D:\proje\sevval\bin\Debug\sevval.pdb
+D:\proje\sevval\obj\Debug\sevval.csproj.AssemblyReference.cache
+D:\proje\sevval\obj\Debug\sevval.AdminGirisForm.resources
+D:\proje\sevval\obj\Debug\sevval.Form1.resources
+D:\proje\sevval\obj\Debug\sevval.KullaniciGirisForm.resources
+D:\proje\sevval\obj\Debug\sevval.KullaniciKayitOl.resources
+D:\proje\sevval\obj\Debug\sevval.Properties.Resources.resources
+D:\proje\sevval\obj\Debug\sevval.csproj.GenerateResource.cache
+D:\proje\sevval\obj\Debug\sevval.csproj.CoreCompileInputs.cache
+D:\proje\sevval\obj\Debug\sevval.exe
+D:\proje\sevval\obj\Debug\sevval.pdb
+D:\proje\sevval\obj\Debug\sevval.AnasayfaForm.resources

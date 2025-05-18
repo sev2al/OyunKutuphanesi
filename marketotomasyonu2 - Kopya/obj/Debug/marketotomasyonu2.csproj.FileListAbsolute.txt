@@ -1,0 +1,10 @@
+D:\proje\marketotomasyonu2\bin\Debug\marketotomasyonu2.exe.config
+D:\proje\marketotomasyonu2\bin\Debug\marketotomasyonu2.exe
+D:\proje\marketotomasyonu2\bin\Debug\marketotomasyonu2.pdb
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.csproj.AssemblyReference.cache
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.Form1.resources
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.Properties.Resources.resources
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.csproj.GenerateResource.cache
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.csproj.CoreCompileInputs.cache
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.exe
+D:\proje\marketotomasyonu2\obj\Debug\marketotomasyonu2.pdb

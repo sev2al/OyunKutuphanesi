@@ -1,0 +1,30 @@
+﻿@model _231103083_sevval_karagol.DAL.Hizmetler
+
+@{
+    ViewData["Title"] = "Hizmetler/Detaylar";
+}
+
+<h1>Detaylar</h1>
+
+<div>
+    <h4>Hizmetler</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Baslik)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Baslik)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Fotograf)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Fotograf)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Düzenle</a> |
+    <a asp-action="Index">Geri Dön</a>
+</div>

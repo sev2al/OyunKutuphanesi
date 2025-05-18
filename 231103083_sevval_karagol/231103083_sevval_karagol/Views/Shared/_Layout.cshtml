@@ -1,0 +1,331 @@
+﻿@using _231103083_sevval_karagol.DAL
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - _231103083_sevval_karagol</title>
+	@* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/_231103083_sevval_karagol.styles.css" asp-append-version="true" />
+	*@
+
+
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+	<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+
+	<!-- fonts style -->
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
+	<!-- Custom styles for this template -->
+	<link href="~/css/style.css" rel="stylesheet" />
+	<!-- responsive style -->
+	<link href="~/css/responsive.css" rel="stylesheet" />
+	<link href="~/css/venobox.css" rel="stylesheet" />
+	<link href="~/css/slick.css" rel="stylesheet" />
+	<link href="~/css/lightbox.min.css" rel="stylesheet" />
+</head>
+<body>
+	<header>
+		<section class="header_section">
+			<div class="container">
+				<nav class="navbar navbar-expand-lg custom_nav-container d-lg-none">
+					<a class="navbar-brand" href="/">
+						<div class="logo-box">
+							<img src="~/assets/images/logo.png" alt="">
+						</div>
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav  ">
+							<li class="nav-item">
+								<a href="~/" class="nav-link">
+									Anasayfa
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="~/kurumsal" class="nav-link">
+									Kurumsal
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="~/hakkimizda" class="nav-link">
+									Hakkımızda
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="~/faaliyetlerimiz" class="nav-link">
+									Faaliyetlerimiz
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="~/duyurular" class="nav-link">
+									Duyurular
+								</a>
+							</li>
+							<li class="nav-item">
+								<a href="~/iletisim" class="nav-link">
+									İletişim
+								</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+				<div class="header_container ">
+					<div class="logo-box">
+						<a href="~/">
+							<img src="/assets/images/logo.png" alt="">
+						</a>
+					</div>
+					<div>
+						<div class="header_top">
+							<div class="header_top-contact">
+
+								<div>
+									<img src="~/assets/images/phone.png" alt="">
+								</div>
+								<span>
+									<a href="tel:+90 216 232 28 00">+90 216 232 28 00</a>
+								</span>
+
+								<a href="" class="ml-4">
+									<div>
+										<img src="~/assets/images/mail.png" alt="">
+									</div>
+									<span>
+									</span>
+								</a><a href="mailto:bilgi@akkarlojistik.com.tr">bilgi@akkarlojistik.com.tr</a>
+
+
+							</div>
+							<div class="header_top-social">
+								<div>
+									<a href="https://www.instagram.com/akkarlojistik/" target="_blank">
+										<img src="~/assets/images/socials/instagram.png" alt="Instagram">
+									</a>
+								</div><div>
+									<a href="https://www.linkedin.com/company/akkar-lojistik/?viewAsMember=true" target="_blank">
+										<img src="~/assets/images/socials/linkedin.png" alt="Linkedin">
+									</a>
+								</div><div>
+									<a href="https://www.youtube.com/channel/UCGtQNxbp5xKOVd0Hq9L9Mpg" target="_blank">
+										<img src="~/assets/images/socials/youtube.png" alt="Youtube">
+									</a>
+								</div><div>
+									<a href="http://b2b.akkarlojistik.com.tr:3001" class="btn btn-sm btn-danger" style="height:24px; padding: 0.15rem 0.5rem;" target="_blank">
+										Gönderi Takip
+									</a>
+								</div>
+							</div>
+						</div>
+						<div class="header_btm">
+							<nav class="navbar navbar-expand-lg custom_nav-container pt-3">
+
+								<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+									<span class="navbar-toggler-icon"></span>
+								</button>
+
+								<div class="collapse navbar-collapse" id="navbarSupportedContent">
+									<div class="d-flex mx-auto flex-column flex-lg-row align-items-center">
+										<ul class="navbar-nav  ">
+											<li class="nav-item">
+												<a href="~/" class="nav-link">
+													Anasayfa
+												</a>
+											</li>
+											<li class="nav-item">
+												<a href="~/kurumsal" class="nav-link">
+													Kurumsal
+												</a>
+											</li>
+											<li class="nav-item">
+												<a href="~/hakkimizda" class="nav-link">
+													Hakkımızda
+												</a>
+											</li>
+											<li class="nav-item">
+												<a href="~/faaliyetlerimiz" class="nav-link">
+													Faaliyetlerimiz
+												</a>
+											</li>
+											<li class="nav-item">
+												<a href="~/duyurular" class="nav-link">
+													Duyurular
+												</a>
+											</li>
+											<li class="nav-item">
+												<a href="~/iletisim" class="nav-link">
+													İletişim
+												</a>
+											</li>
+										</ul>
+
+									</div>
+
+								</div>
+							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</header>
+	<div @* class="container-fluid" *@>
+		<main role="main">
+			<div class="hero_area">
+				@RenderBody()
+			</div>
+		</main>
+	</div>
+
+	<style>
+		.hakkimiz p, .about_detail-box p , {
+			text-align: justify;
+		}
+	</style>
+
+
+
+	<script src="~/assets/venobox/venobox.min.js"></script>
+	<script src="~/assets/js/site.js"></script>
+	<script src="~/assets/js/lightbox.js"></script>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+	<section class="info_section ">
+		<div class="container ">
+			<div class="row  mb-3 pb-4">
+				<div class="col-md-3 info_logo">
+					<div class="logo-box">
+						<img src="/assets/images/logo.png" alt="">
+					</div>
+					<p>
+
+					</p>
+					<div class="info_social">
+						<div style="margin-right:5px !Important">
+							<a href="https://www.instagram.com/akkarlojistik/" target="_blank">
+								<img src="/assets/images/socials/instagram.png" alt="Instagram">
+							</a>
+						</div><div style="margin-right:5px !Important">
+							<a href="https://www.linkedin.com/company/akkar-lojistik/?viewAsMember=true" target="_blank">
+								<img src="/assets/images/socials/linkedin.png" alt="Linkedin">
+							</a>
+						</div><div style="margin-right:5px !Important">
+							<a href="https://www.youtube.com/channel/UCGtQNxbp5xKOVd0Hq9L9Mpg" target="_blank">
+								<img src="/assets/images/socials/youtube.png" alt="Youtube">
+							</a>
+						</div>
+					</div>
+				</div>
+				@{
+					AkkardemoContext DB = new AkkardemoContext();
+
+					var iletisim = DB.Iletisims.FirstOrDefault();
+				}
+				<div class="col-md-3 info_address">
+					<h5>
+						Adres
+					</h5>
+					<p>
+						@iletisim.Adres
+
+					</p>
+					<p>
+						Tel:
+						<a href="tel:+@iletisim.Telefon">+@iletisim.Telefon</a>
+					</p>
+					<p>
+						Fax:
+						+@iletisim.Fax
+					</p>
+					<p>
+						<a href="mailto:@iletisim.Eposta">
+							@iletisim.Eposta
+						</a>
+					</p>
+				</div>
+				<div class="col-md-3 info_links">
+
+					<div class="info_nav ">
+						<nav class="">
+							<ul>
+								<h5>
+									Hızlı Menü
+								</h5>
+								<li>
+									<a href="/">
+										Anasayfa
+									</a>
+								</li>
+								<li>
+									<a href="/kurumsal">
+										Kurumsal
+									</a>
+								</li>
+								<li>
+									<a href="/hakkimizda">
+										Hakkımızda
+									</a>
+								</li>
+								<li>
+									<a href="/faaliyetler">
+										Faaliyetlerimiz
+									</a>
+								</li>
+								<li>
+									<a href="/duyurular">
+										Duyurular
+									</a>
+								</li>
+								<li>
+									<a href="/iletisim">
+										İletişim
+									</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</div>
+				<div class="col-md-3 info_news">
+					<div class="info_nav ">
+						<nav class="">
+							<ul>
+								<h5>
+									Bilgilendirme
+								</h5>
+								<li>
+									<a href="/assets/doc/Akkar_Aydinlatma_Metni.pdf" target="_blank">
+										Aydınlatma Metni
+									</a>
+								</li>
+								<li>
+									<a href="/assets/doc/Akkar_KVKK_Formu.pdf" target="_blank">
+										KVKK
+									</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+	</section>
+	<section class="container-fluid footer_section">
+		<p>
+			Tüm Hakları Saklıdır © 2020 Tasarım
+			<a href="https://kitayazilim.com">Kıta Yazılım</a>
+			| Dağıtım
+			<a href="https://alelma.com.tr">Alelma</a>
+		</p>
+	</section>
+	</section>
+</body>
+</html>

@@ -1,0 +1,195 @@
+﻿@using _231103083_sevval_karagol.DAL
+@model IEnumerable<_231103083_sevval_karagol.DAL.Hizmetler>
+@{
+
+    ViewData["Title"] = " Akkar Lojistik|Bize Ulaşın";
+    var hakkımızdaList = ViewData["Hakkimizda"] as List<Hakkimizdum>;
+    var tesislerList = ViewData["Tesisler"] as List<Tesisler>;
+}
+
+
+
+<section id="intro">
+    <div class="intro-container wow fadeIn">
+        <h1 class="mb-4 pb-0">
+            Lojistikte<br>
+            <span>Doğru</span>
+            Karar
+        </h1>
+        <p class="mb-4 pb-0">Dinamik, uzman kadromuz ve profesyonel altyapımız ile artık dünyaya taşıyoruz.</p>
+        <a href="https://www.youtube.com/watch?v=GIqiee8aXtg" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+        <a href="#hakkimizda" class="about-btn scrollto">Devam Et</a>
+    </div>
+</section>
+
+<section id="hakkimizda" class="about_section layout_padding2-bottom">
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h2 class="heading_style">
+        Hakkımızda
+      </h2>
+      <p>
+        AKKAR Nakliyat, müşterilerine hizmet verdiği her yerde aynı kalite düzeyini garanti eder. Bu garanti bütün hizmet türlerinde ve sektörlerde geçerlidir.
+      </p>
+    </div>
+
+  </div>
+    @{
+        foreach (var item in hakkımızdaList)
+        {
+                <div class="row mt-3">
+                    <div class="col-md-6">
+                        <div class="about_img-box">
+
+                            <img src="@item.Fotograf" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-6 aboutback">
+                        <div class="about_detail-box hakkimiz" style="color: #fff">
+                            <h3 style="text-align:left">
+                                @item.Baslik
+                            </h3>
+                            <p>
+                            @item.Aciklama
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        }
+    }
+ 
+</div>
+
+</section>
+<section class="service_section layout_padding">
+<div class="container">
+  <div class="d-flex justify-content-center">
+    <h2 class="heading_style">
+      Hizmetlerimiz
+    </h2>
+  </div>
+  <div class="row layout_padding2-top hizmetler">
+
+      @foreach (var item in Model)
+            {
+                <div class="col-md-4" style="margin-top:15px">
+                    <div class="service_img-box s-b-1">
+                        <a href="/faaliyetler/index#@item.Yonlendirme">
+                            <img src="@item.Fotograf" alt="">
+                        </a>
+                        <div class="d-flex">
+                            <h3 style="font-size:16px !important; width:100%; padding-right:15px">
+                                <a href="/faaliyetler#@item.Yonlendirme" style="color:#fff; font-weight:500">@item.Baslik </a>
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="service-detail">
+                        <p>
+
+                        </p>
+
+                    </div>
+                </div>
+            }     
+     
+
+
+</div>
+</div>
+</section>
+<section class="shop_section">
+<div class="container">
+
+  <div class="d-flex justify-content-center">
+    <h2 class="heading_style">Tesislerimiz</h2>
+  </div>
+  @foreach(var item in tesislerList){
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="d-flex align-items-center h-100">
+                        <div class="shop-detail">
+                            <h5>
+                                @item.Baslik
+                            </h5>
+                            <p>
+                                 @item.Aciklama
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="shop_img-box">
+                        <img src="@item.Fotograf" alt="" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        }
+    
+</div>
+</section>
+<section class="company_section layout_padding2" style="margin-top:70px">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="d-flex align-items-center h-100">
+        <div class="company-detail">
+          <h3>
+            Lojistik?
+          </h3>
+          <p>
+            Lojistik; bir ürünün ilk üreticiden son tüketiciye kadar olan nakliye, depolama, gümrükleme, ambalajlama, dağıtım gibi tüm süreçlerini ifade eder. Bir başka tanımla lojistik; doğru ürünü, doğru yerde, doğru zamanda, doğru miktarda, doğru şekilde, doğru kalitede, rekabetçi bir fiyatla sağlamaktır. Lojistiğin her halkasında müşterilerimizin talep ve ihtiyacına en uygun çözümleri geliştirip, gerçekleştirdiğimiz operasyonlarda müşteri ihtiyacına özel çözümler sunuyoruz.
+            
+          </p>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="company_img-box">
+        <img src="/assets/images/lojistik.jpg" alt="" class="img-fluid">
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+<section class="contact_section layout_padding">
+  <div class="d-flex justify-content-center">
+    <h2 class="heading_style">
+      Bize Ulaşın
+    </h2>
+  </div>
+  <div class="container layout_padding2-top">
+    <div class="row">
+      <div class="col-md-6">
+        <iframe class="w-100 h-100" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6021.972513835184!2d29.235342!3d41.003674!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88f91b0e129aacfc!2sAkkar%20Lojistik!5e0!3m2!1str!2str!4v1602526515720!5m2!1str!2str" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      </div>
+
+      <div class="col-md-6">
+        <div class="contact_form-container">
+              <form action="" name="send_message_form">
+                <div>
+                  <input type="text" name="name" placeholder="Adınız" required="">
+                </div>
+                <div>
+                  <input type="email" name="email" placeholder="Mail Adresiniz" required="">
+                </div>
+                <div>
+                  <input type="text" name="phone" placeholder="Telefonunuz">
+                </div>
+
+                <div>
+                  <input type="text" name="message" class="message_input" placeholder="Mesajınız" required="">
+                </div>
+                <div class="d-flex justify-content-end">
+                  <button type="button" onclick="send_message(document.forms['send_message_form'])">
+                    Gönder
+                  </button>
+                </div>
+              </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+

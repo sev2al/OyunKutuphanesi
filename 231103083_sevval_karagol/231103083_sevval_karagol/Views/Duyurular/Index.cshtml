@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Akkar Lojistik | Bize Ulaşın";
+}
+
+
+@model IEnumerable<_231103083_sevval_karagol.DAL.Duyurular>
+
+
+
+<section class="contact_section layout_padding" style="margin-top:20px; background-color:#fff">
+    <div class="container">
+        <div class="d-flex justify-content-center">
+            <h2 class="heading_style">
+                Duyurular
+            </h2>
+        </div>
+        <div class="row layout_padding" style="padding-bottom:0 !important">
+            <div class="cont-4 container">
+
+                @foreach (var item in Model )
+                {
+                    <div style="margin-top:15px; background-color:aliceblue">
+                        <div style="padding:50px 50px !important">
+                            <h4>
+                               @item.Baslik
+                                <span style="float:right; font-size:15px" class="pull-right">@item.Tarih</span>
+                            </h4>
+                            <hr>
+                            <p style="font-size:18px">
+                               @item.Aciklama
+                            </p>
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>

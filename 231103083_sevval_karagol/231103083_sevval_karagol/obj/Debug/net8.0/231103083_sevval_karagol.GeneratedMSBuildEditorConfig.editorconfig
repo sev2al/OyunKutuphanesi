@@ -1,0 +1,275 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _231103083_sevval_karagol
+build_property.RootNamespace = _231103083_sevval_karagol
+build_property.ProjectDir = D:\proje\231103083_sevval_karagol\231103083_sevval_karagol\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\proje\231103083_sevval_karagol\231103083_sevval_karagol
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Belgelers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVsZ2VsZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Belgelers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVsZ2VsZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Belgelers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVsZ2VsZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Belgelers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVsZ2VsZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Belgelers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVsZ2VsZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurulars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurulars/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurulars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurulars/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurulars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Duyurular/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRHV5dXJ1bGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimizs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimizs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimizs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimizs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimizs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Faaliyetlerimiz/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFhbGl5ZXRsZXJpbWl6XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizdums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkdW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizdums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkdW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizdums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkdW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizdums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkdW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hakkimizdums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkdW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hizmetlers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGl6bWV0bGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hizmetlers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGl6bWV0bGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hizmetlers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGl6bWV0bGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hizmetlers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGl6bWV0bGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Hizmetlers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGl6bWV0bGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisimforms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1mb3Jtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisimforms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1mb3Jtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisimforms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1mb3Jtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisimforms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1mb3Jtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisimforms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1mb3Jtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisims/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisims/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisims/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisims/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisims/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsals/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsals/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsals/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsals/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsals/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Kurumsal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS3VydW1zYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/MisyonVizyons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzeW9uVml6eW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/MisyonVizyons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzeW9uVml6eW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/MisyonVizyons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzeW9uVml6eW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/MisyonVizyons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzeW9uVml6eW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/MisyonVizyons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzeW9uVml6eW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Tesislers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzaXNsZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Tesislers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzaXNsZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Tesislers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzaXNsZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Tesislers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzaXNsZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Tesislers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzaXNsZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proje/231103083_sevval_karagol/231103083_sevval_karagol/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-i80he8gltc

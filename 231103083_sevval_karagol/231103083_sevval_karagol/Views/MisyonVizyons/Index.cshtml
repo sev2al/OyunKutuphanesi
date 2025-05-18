@@ -1,0 +1,42 @@
+﻿@model IEnumerable<_231103083_sevval_karagol.DAL.MisyonVizyon>
+
+@{
+    ViewData["Title"] = "MisyonVizyon/Düzenle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>MisyonVizyon</h1>
+
+<p>
+    <a asp-action="Create">Oluştur</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Misyon)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vizyon)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Misyon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vizyon)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detaylar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Sil</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

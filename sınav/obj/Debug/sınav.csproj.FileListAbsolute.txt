@@ -1,0 +1,10 @@
+D:\proje\sınav\bin\Debug\sınav.exe.config
+D:\proje\sınav\bin\Debug\sınav.exe
+D:\proje\sınav\bin\Debug\sınav.pdb
+D:\proje\sınav\obj\Debug\sınav.csproj.AssemblyReference.cache
+D:\proje\sınav\obj\Debug\sınav.Form1.resources
+D:\proje\sınav\obj\Debug\sınav.Properties.Resources.resources
+D:\proje\sınav\obj\Debug\sınav.csproj.GenerateResource.cache
+D:\proje\sınav\obj\Debug\sınav.csproj.CoreCompileInputs.cache
+D:\proje\sınav\obj\Debug\sınav.exe
+D:\proje\sınav\obj\Debug\sınav.pdb

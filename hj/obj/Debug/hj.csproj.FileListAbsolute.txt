@@ -1,0 +1,10 @@
+D:\proje\hj\bin\Debug\hj.exe.config
+D:\proje\hj\bin\Debug\hj.exe
+D:\proje\hj\bin\Debug\hj.pdb
+D:\proje\hj\obj\Debug\hj.csproj.AssemblyReference.cache
+D:\proje\hj\obj\Debug\hj.Form1.resources
+D:\proje\hj\obj\Debug\hj.Properties.Resources.resources
+D:\proje\hj\obj\Debug\hj.csproj.GenerateResource.cache
+D:\proje\hj\obj\Debug\hj.csproj.CoreCompileInputs.cache
+D:\proje\hj\obj\Debug\hj.exe
+D:\proje\hj\obj\Debug\hj.pdb

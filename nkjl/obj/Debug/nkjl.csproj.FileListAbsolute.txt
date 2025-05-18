@@ -1,0 +1,10 @@
+D:\proje\nkjl\bin\Debug\nkjl.exe.config
+D:\proje\nkjl\bin\Debug\nkjl.exe
+D:\proje\nkjl\bin\Debug\nkjl.pdb
+D:\proje\nkjl\obj\Debug\nkjl.csproj.AssemblyReference.cache
+D:\proje\nkjl\obj\Debug\nkjl.Form1.resources
+D:\proje\nkjl\obj\Debug\nkjl.Properties.Resources.resources
+D:\proje\nkjl\obj\Debug\nkjl.csproj.GenerateResource.cache
+D:\proje\nkjl\obj\Debug\nkjl.csproj.CoreCompileInputs.cache
+D:\proje\nkjl\obj\Debug\nkjl.exe
+D:\proje\nkjl\obj\Debug\nkjl.pdb

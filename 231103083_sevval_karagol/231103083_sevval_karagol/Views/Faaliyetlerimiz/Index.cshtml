@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Akkar Lojistik | Bize Ulaşın";
+}
+@model IEnumerable<_231103083_sevval_karagol.DAL.Faaliyetlerimiz>
+
+<section class="service_section layout_padding">
+    <div class="container">
+        @foreach(var item in Model)
+        {
+        <div class="row layout_padding2-top hizmetler">
+            <div class="col-md-12 row" id="105" style="margin-top:40px">
+                <div class="service_img-box s-b-1 col-md-4">
+                    <img src="@item.Fotograf" alt="">
+                    <div class="d-flex">
+                        <h3 style="width:100%">
+                            @item.FotografBaslik
+                        </h3>
+                    </div>
+                </div>
+                <div class="service-detail col-md-8  order-md-first ">
+                    <h3>@item.Baslik </h3>
+                    <p>
+                    </p><p>@item.Aciklama<p>
+
+                    </p></p>
+                </div>
+            </div>
+            @* <hr style="border:1px solid #f7f4f4 !important; width:100%"><div class="col-md-12 row" id="104" style="margin-top:40px">
+                <div class="service_img-box s-b-1 col-md-4">
+                    <img src="/assets/images/komple.jpg" alt="">
+                    <div class="d-flex">
+                        <h3 style="width:100%">
+                            Komple Taşımacılık
+                        </h3>
+                    </div>
+                </div>
+                <div class="service-detail col-md-8 ">
+                    <h3>Komple Taşımacılık </h3>
+                    <p>
+                    </p><p>Firmamız bünyesinde müşteri memnuniyetini her zaman ön planda tutularak yurtiçi komple taşımacılık ve daha birçok farklı nakliye hizmetini sunarız. Bünyemizde bulunan Özmal araç filosu ile hızlı ve güvenli bir şekilde yükünüzün sevkiyatını tamamlarız.</p><p>Birçok farklı ölçüde ya da özel yükünüzü profesyonel kadro ve her türlü donanıma sahip kamyon ve tırlar ile sorunsuz şekilde istenilen adrese zamanında ulaştırırız. Nakliye işlemi, alınan her türlü yükün, başlangıç noktasından araçlara düzenli bir şekilde yerleştirilmesine kadar olan bütün detayları titizlikle yaparız. Son noktada müşteriyi, yükler taşınırken yol boyunca bilgilendiririz.</p><p>Yurt içi komple taşımacılık hizmetleri, profesyonel bir anlayış içerisinde ele alırız. Baştan itibaren her türlü ulaşım noktasına kadar güven ve garanti içerisinde yüklerinizi teslim ederiz. Öncelik olarak müşteri memnuniyeti parolası ile çıkış noktasından varış noktasına uygun fiyatlarla kusursuz bir hizmet sunarız.</p><p>Komple Taşımacılıkta, güvenilir çözüm ortağınız <strong> “AKKAR LOJİSTİKTE DOĞRU KARAR”</strong></p>
+                    <p></p>
+                </div>
+            </div>
+            <hr style="border:1px solid #f7f4f4 !important; width:100%"><div class="col-md-12 row" id="100" style="margin-top:40px">
+                <div class="service_img-box s-b-1 col-md-4">
+                    <img src="/assets/images/depolama.jpg" alt="">
+                    <div class="d-flex">
+                        <h3 style="width:100%">
+                            Depolama Hizmetleri
+                        </h3>
+                    </div>
+                </div>
+                <div class="service-detail col-md-8  order-md-first ">
+                    <h3>Depolama Hizmetleri</h3>
+                    <p>
+                    </p><p>Firmamız, müşterilerinin depolama gereksinimlerine elverişli ve güvenli çözümler sunmaktadır. Depolama hizmetlerini Sancaktepe lokasyonunda toplam 15.000m2 depolama alanında modern raf ve depolama ekipmanlarıyla sürdürmekteyiz. Konusunda uzman kadrosu ve etkin depo yönetim sistemi ‘DEPOX' ile müşterilerinin talep ve ihtiyaçlarına göre; stok yönetimi, sipariş hazırlama ve elleçleme hizmetlerini sağlamaktadır. Firmamızın depolama alanları sigorta güvencesi altındadır.</p><p>Bu kapsamdaki hizmet türlerimizle sizlere gerçek manada yardımcı oluruz.</p><p>Bu bağlamda, yüksek ölçekli sermaye harcamalarından, personel istihdamının getirdiği yaptırımlardan, yüksek işletme maliyetlerinden, yönetimsel zorluklardan ve iş gücü problemlerinden sizi kurtarır, işinize odaklanmanızı sağlarız.</p><p>Depolamada güvenilir çözüm ortağınız <strong>“AKKAR LOJİSTİKTE DOĞRU KARAR”</strong></p>
+                    <p></p>
+                </div>
+            </div>
+            <hr style="border:1px solid #f7f4f4 !important; width:100%">*@
+        </div> 
+        }
+    </div>
+</section>

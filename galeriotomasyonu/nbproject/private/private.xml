@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/DBConnection.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/GirisForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/EserListeForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/SatinAlinanlarForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/AdminPanel.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/TeklifGecmisiForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/TeklifDAO.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/Teklif.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/TeklifVerForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/SatisDAO.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/SatinAlma.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/Eser.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/MuzayedeEkleForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/EserDAO.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/EserManager.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/EserIslemleri.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/EserYonetimForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/MuzayedeDAO.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/MuzayedeListeForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/Muzayede.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/MusteriPanel.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/SanatciListeForm.java</file>
+            <file>file:/D:/proje/galeriotomasyonu/src/galeriotomasyonu/SanatciDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

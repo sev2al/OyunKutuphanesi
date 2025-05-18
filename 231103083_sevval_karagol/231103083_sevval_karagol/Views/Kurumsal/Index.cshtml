@@ -1,0 +1,84 @@
+﻿@using _231103083_sevval_karagol.DAL
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Akkar Lojistik | Kurumsal";
+    var kurumsalBilgi = ViewData["kurumsal"] as Kurumsal; 
+    // <title>
+    //     Akkar Lojistik | Kurumsal
+    // </title>
+}
+@model IEnumerable<Belgeler>
+
+
+<section class="about_section layout_padding2-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="heading_style">
+                    Kurumsal
+                </h2>
+                <p>
+                    AKKAR Lojistik, müşterilerine hizmet verdiği her yerde aynı kalite düzeyini garanti eder. Bu garanti bütün hizmet türlerinde ve sektörlerde geçerlidir.
+                </p>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-md-6">
+                <div class="about_img-box">
+                    <img src="@kurumsalBilgi.Fotograf" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 aboutback">
+                <div class="about_detail-box kurumsal" style="color: #fff">
+                    <h3 style="text-align:left">@kurumsalBilgi.Baslik</h3>
+                    <p>
+                        @kurumsalBilgi.Baslik; <br>
+                        @kurumsalBilgi.Aciklama
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row" style="margin-top:70px">
+            <div class="col">
+                <h2 class="heading_style">
+                    Belgeler
+                </h2>
+            </div>
+        </div>
+        <div class="row" style="margin-top:30px">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3">
+                    <a href="@item.Fotograf" data-lightbox="belgeler">
+                        <img src="@item.Fotograf" width="100%">
+                    </a>
+                </div>
+            }
+@*             <div class="col-md-3">
+                <a href="/assets/images/h1belgesi.jpg" data-lightbox="belgeler">
+                    <img src="/assets/images/h1belgesi.jpg" width="100%">
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="/assets/images/k1belgesi.jpg" data-lightbox="belgeler">
+                    <img src="/assets/images/k1belgesi.jpg" width="100%">
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="/assets/images/tiobelgesi.jpg" data-lightbox="belgeler">
+                    <img src="/assets/images/tiobelgesi.jpg" width="100%">
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="/assets/images/l2belgesi.jpg" data-lightbox="belgeler">
+                    <img src="/assets/images/l2belgesi.jpg" width="100%">
+                </a>
+            </div> *@
+        </div>
+    </div>
+</section>

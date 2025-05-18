@@ -1,0 +1,71 @@
+﻿@using _231103083_sevval_karagol.DAL
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Akkar Lojistik | Bize Ulaşın";
+    var misyonVizyon = ViewData["MisyonVizyon"] as MisyonVizyon;
+}
+@model IEnumerable<Hakkimizdum>
+
+<section class="about_section layout_padding2-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="heading_style">
+                    Hakkımızda
+                </h2>
+                <p>
+                    AKKAR Nakliyat, müşterilerine hizmet verdiği her yerde aynı kalite düzeyini garanti eder. Bu garanti bütün hizmet türlerinde ve sektörlerde geçerlidir.
+                </p>
+            </div>
+        </div>
+        @foreach(var item in Model)
+        {
+        <div class="row">
+            <div class="col-md-6">
+                <div class="about_img-box">
+
+                    <img src="@item.Fotograf" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6 aboutback">
+                <div class="about_detail-box hakkimiz" style="color: #fff">
+                    <h3 style="text-align:left">
+                        @item.Baslik
+                    </h3>
+                    <p>
+                        @item.Aciklama
+                    </p>
+                </div>
+            </div>
+        </div>
+        }
+        <div class="container" style="padding: 30px 0">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading_style">
+                        Misyon
+                    </h2>
+                    <p>
+                       @misyonVizyon.Misyon
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="container" style="padding: 30px 0">
+            <div class="row">
+                <div class="col">
+                    <h2 class="heading_style">
+                        Vizyon
+                    </h2>
+                    <p>
+                        @misyonVizyon.Vizyon
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+

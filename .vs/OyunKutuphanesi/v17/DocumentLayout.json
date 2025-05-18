@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|c:\\users\\serkan\\source\\repos\\oyunkutuphanesi\\oyunkutuphanesi\\ziplayantopoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\ziplayantopoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|c:\\users\\serkan\\source\\repos\\oyunkutuphanesi\\oyunkutuphanesi\\yilanoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\yilanoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|c:\\users\\serkan\\source\\repos\\oyunkutuphanesi\\oyunkutuphanesi\\ziplayantopoyunuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\ziplayantopoyunuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|c:\\users\\serkan\\source\\repos\\oyunkutuphanesi\\oyunkutuphanesi\\ziplayantopoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\ziplayantopoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\hafizaoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\hafizaoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\hafizaoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\hafizaoyunuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\formkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\formkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\adamasmacaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\adamasmacaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\formgirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\formgirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\veritabanibaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\oyunmodu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\oyunmodu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\oyuncu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\formkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\formkayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\oyunkutuphanesi\\formgirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DA3DE4E-15E0-4FB7-BBA3-9E3974703F95}|OyunKutuphanesi\\OyunKutuphanesi.csproj|solutionrelative:oyunkutuphanesi\\formgirisekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZiplayanTopOyunuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.Designer.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\ZiplayanTopOyunuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.Designer.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\ZiplayanTopOyunuForm.Designer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:00:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YilanOyunuForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\YilanOyunuForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\YilanOyunuForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\YilanOyunuForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunKutuphanesi\\YilanOyunuForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:56:44.853Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZiplayanTopOyunuForm.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAkwLIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:52:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZiplayanTopOyunuForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\ZiplayanTopOyunuForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\ZiplayanTopOyunuForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunKutuphanesi\\ZiplayanTopOyunuForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:48:33.087Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HafizaOyunuForm.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "ViewState": "AQIAABYBAAAAAAAAAAAgwCABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:44:57.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HafizaOyunuForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\HafizaOyunuForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\HafizaOyunuForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunKutuphanesi\\HafizaOyunuForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T14:08:36.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Program.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\Program.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Program.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:33:22.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdamAsmacaForm.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\AdamAsmacaForm.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\AdamAsmacaForm.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\AdamAsmacaForm.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\AdamAsmacaForm.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAA7wJQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T13:30:27.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VeritabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\VeritabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\VeritabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\VeritabaniBaglantisi.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\VeritabaniBaglantisi.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OyunModu.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\OyunModu.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\OyunModu.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\OyunModu.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\OyunModu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormKayitOl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormKayitOl.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\FormKayitOl.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormKayitOl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunKutuphanesi\\FormKayitOl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:18.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Form1.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Form1.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T12:26:33.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Oyuncu.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Oyuncu.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\Oyuncu.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Oyuncu.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\Oyuncu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:50.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormKayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormKayitOl.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\FormKayitOl.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormKayitOl.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\FormKayitOl.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:54:21.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Form1.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\Form1.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "OyunKutuphanesi\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:52:26.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormGirisEkrani.cs",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormGirisEkrani.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\FormGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormGirisEkrani.cs",
+              "RelativeToolTip": "OyunKutuphanesi\\FormGirisEkrani.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAD4vz8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:52:11.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormGirisEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormGirisEkrani.cs",
+              "RelativeDocumentMoniker": "OyunKutuphanesi\\FormGirisEkrani.cs",
+              "ToolTip": "C:\\Users\\SERKAN\\source\\repos\\OyunKutuphanesi\\OyunKutuphanesi\\FormGirisEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OyunKutuphanesi\\FormGirisEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T11:52:09.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
